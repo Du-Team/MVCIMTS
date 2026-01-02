@@ -5,7 +5,8 @@ PyTorch implementation for our paper "Contrastive Learning-Based Multi-View Clus
 ## Introduction
 
 A Python implementation of the clustering algorithm presented in:
-  <b><i> 'Yurui Li, Mingjing Du<sup>*</sup>,  Xiang Jiang, Nan Zhang.  Contrastive learning-based multi-view clustering for incomplete multivariate
+
+   <b><i> 'Yurui Li, Mingjing Du<sup>*</sup>,  Xiang Jiang, Nan Zhang.  Contrastive learning-based multi-view clustering for incomplete multivariate
  timeseries. <i> Information Fusion</i>, 2025, 117: 102812. '</i></b>
 
  The paper is available online at: <a href="https://dumingjing.github.io/files/paper-17_MVCIMTS/2025_INF_Contrastive%20learning-based%20multi-view%20clustering%20for%20incomplete%20multivariate%20time%20series.pdf" target="_blank">pdf</a>.
